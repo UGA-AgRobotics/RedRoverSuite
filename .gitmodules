@@ -7,3 +7,6 @@
 [submodule "RoverWatch"]
 	path = RoverWatch
 	url = https://github.com/UGA-AgRobotics/RoverWatch
+[submodule "red_rover_arduino"]
+	path = red_rover_arduino
+	url = https://github.com/UGA-AgRobotics/red_rover_arduino
