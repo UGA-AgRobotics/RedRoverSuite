@@ -1,0 +1,9 @@
+[submodule "red_rover_analysis"]
+	path = red_rover_analysis
+	url = https://github.com/UGA-AgRobotics/red_rover_analysis
+[submodule "simple_navigation_goals"]
+	path = simple_navigation_goals
+	url = https://github.com/UGA-AgRobotics/simple_navigation_goals
+[submodule "RoverWatch"]
+	path = RoverWatch
+	url = https://github.com/UGA-AgRobotics/RoverWatch
